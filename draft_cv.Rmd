@@ -118,26 +118,27 @@ Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### R language - from begginers to intermediate.
-
-Instructor of R and Data Mining Training Courses at R-Ladies São Paulo. I participated in events which had beginners and intermediate students as target audience, but R-Ladies promote tech education of all levels of expertise.
-
-The community works to provide a comfortable environment so gender minorities can feel welcome to learn the programming language R and to communicate their work through seminars, for example.
-As we want to promote gender diversity, our target audience is cis women, trans women, non binary, genderfluid, queer and others.
+R-Ladies São Paulo
 
 São Paulo, Brazil
 
 2019
 
+Instructor of R and Data Mining Training Courses at R-Ladies São Paulo. I participated in events which had beginners and intermediate students as target audience, but R-Ladies promote tech education of all levels of expertise.
+The community works to provide a comfortable environment so gender minorities can feel welcome to learn the programming language R and to communicate their work through seminars, for example.
+As we want to promote gender diversity, our target audience is cis women, trans women, non binary, genderfluid, queer and others.
+
+
 Talks {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### Shiny app to bayesian A/B tests.
 
-Poster for 2013 International Conference of Genomics
+lightning talk about bayesian statistics applied to business. There I show a shiny app which runs bayesian a/b tests
 
-Qingdao, China
+São Paulo, Brazil
 
-2014
+2019
 
-**Yu L**, Chen B, Zhang Z.
+**Muliterno I**.
 
