@@ -32,7 +32,7 @@ Skills {#skills}
 
 - Highly skilled in R
 
-- Fairly skilled in Python, SQL and SPSS
+- Fairly skilled in Python, SQL, git and SPSS
 
 - Familiar with Linux, Power BI and Qlikview
 
@@ -69,99 +69,66 @@ Recife, Brazil
 
 2018
 
-Thesis: < insira o trampo aqui >
+Thesis: Development of shiny app to support sample design for agricultural research
 
 Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Graduate Research Assistant
-
-Beijing Institute of Genomics, Chinese Academy of Sciences
-
-Beijing, China
-
-2011 - 2014
-
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
-
-### Bioinformatican
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Data Scientist, Analyst
+Omni - financial institution
 
-SupStat Inc.
+São Paulo, Brazil
 
-Beijing, China
+2020
 
-2014
+- Credit Score and collection score modeling.
+- Behaviour studies.
+- Optimization of routine code.
+- Tools : R. Oracle, Python and Office365
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
 
-### Bioinformatician
+### Statistical Analyst
+PRICED
 
-My Health Gene Technology Co., Ltd.
+São Paulo, Brazil
 
-Beijing, China
+2018 - 2020
 
-2015 - 2016
+A fintech focused on retail market analysis. My main responsabilities were:
 
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
+- Study customer behavior
+- Basket  analysis
+- Design and automate periodic reports 
+- design of experiments (A/B tests)
+- Tools : Linux, R, Phyton
+
+### Statistician/CSPRO Full-Stack Dev.
+Norte Pesquisa
+
+Recife, Brazil
+
+2016
+
+NORTE is a fintech which makes all the work from planning and applying a survey to presenting results. Now that I am working remotely, my main task is to develop questionnaires using CSPro,also producing a report based on the collected data.
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### R language - from begginers to intermediate.
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Instructor of R and Data Mining Training Courses at R-Ladies São Paulo. I participated in events which had beginners and intermediate students as target audience, but R-Ladies promote tech education of all levels of expertise.
 
-Beijing, China
+The community works to provide a comfortable environment so gender minorities can feel welcome to learn the programming language R and to communicate their work through seminars, for example.
+As we want to promote gender diversity, our target audience is cis women, trans women, non binary, genderfluid, queer and others.
 
-2014
+São Paulo, Brazil
 
-### Computational Biology and Bioinformatics.
+2019
 
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
+Talks {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
@@ -174,12 +141,3 @@ Qingdao, China
 
 **Yu L**, Chen B, Zhang Z.
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
