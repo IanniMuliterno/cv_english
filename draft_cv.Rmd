@@ -71,7 +71,6 @@ Recife, Brazil
 
 Thesis: Development of shiny app to support sample design for agricultural research
 
-Research Experience {data-icon=laptop}
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -133,12 +132,13 @@ Talks {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### Shiny app to bayesian A/B tests.
-
-lightning talk about bayesian statistics applied to business. There I show a shiny app which runs bayesian a/b tests
+SatRday
 
 São Paulo, Brazil
 
 2019
+
+lightning talk about bayesian statistics applied to business. There I show a shiny app which runs bayesian a/b tests
 
 **Muliterno I**.
 

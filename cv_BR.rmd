@@ -1,0 +1,145 @@
+---
+title: "Ianní Muliterno  CV"
+author: Ianní Muliterno
+date: "`r Sys.Date()`"
+params:
+  pdf_mode:
+  value: false
+output:
+  pagedown::html_resume:
+   self_contained: true
+---
+
+Aside
+================================================================================
+
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> iannimuliterno@gmail.com
+- <i class="fa fa-github"></i> [github.com/IanniMuliterno](https://github.com/IanniMuliterno)
+- <i class="fa fa-phone"></i> +55 11 954235340
+- Pra mais informação, por favor entre em contato por email.
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Experiente em Análise estatística, modelos de aprendizagem estatística, Modelos de crédito e cobrança e experimentos.
+
+- Habilidade avançada em R
+
+- Habilidade intermediária em Python, SQL, git e SPSS
+
+- Habilidade básica e Linux, Power BI e Qlikview
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Este currículo foi feito com o pacote [**pagedown**](https://github.com/rstudio/pagedown).
+
+Última atualização em `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+            Ianní Muliterno {#title}
+--------------------------------------------------------------------------------
+
+### Sem busca ativa de oportunidades atualmente.
+
+ Sou uma pessoa não binária, atuo como cientista de dados numa instituição financeira. Atualimente trabalho com modelos de crédito e cobrança. Também tenho experiência na área de inteligência de mercado e análise de pesquisa de campo.
+ Para manter as habilidades em dia eu busco envolvimento com minha comunidade profissional, participando em meetups, palestras, workshops e eventos em geral, relacionados a estatística, programação e tecnologia.
+
+
+Educação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Universidade Federal de Pernambuco
+
+Bacharelado em Estatística
+
+Recife, Brasil
+
+2018
+
+Tese: Desenvolvimento em shiny de ferramenta para suporte de design amostral para pesquisas agrícolas
+
+
+Experiência Profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Cientista de dados, Analista
+Omni - Financeira
+
+São Paulo, Brasil
+
+2020
+
+- Modelagem de Score de crédito e Score de cobrança
+- Estudos de comportamento
+- Otimização de código de rotina
+- Ferramentas : R. Oracle, Python e Office365
+
+
+### Analista estatística
+PRICED
+
+São Paulo, Brasil
+
+2018 - 2020
+
+Fintech focada em análise de mercado varejista. Minhas principais responsabilidades:
+
+- Estudo de comportamento do cliente
+- Basket  analysis
+- Design e automação de relatórios periódicos
+- design de experimentos (A/B testes)
+- Ferramentas : Linux, R, Phyton
+
+### Pessoa Estatística/CSPRO Full-Stack Dev.
+Norte Pesquisa
+
+Recife, Brasil
+
+2016
+
+NORTE é uma fintech que realiza todo o trabalho desde planejar e aplicar até apresentar os resultados. Agora que atuo remotamente, minha atividade principal é desenvolver questionários com CSPro, e produzir relatório baseado nos dados coletados
+
+
+Experiência de ensino {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### R  - de iniciante à intermediário
+R-Ladies São Paulo
+
+São Paulo, Brasil
+
+2019
+
+Pessoa Instrutora de R e mineração de dados em treinamentos oferecidos pela R-ladies. Minhas participações foram para público iniciante ao intermediário, mas a comunidade educa pessoas de todos os níveis.
+A comunidade trabalha para promover um ambiente confortável para que minorias de gênero se sintam bem-vindas a aprender programação em R e a comunicar seu trabalho através de seminários, por exemplo.
+Como queremos promover diversidade de gênero o nosso público alvo são mulheres cis, trans, pessoas não binárias, gênero flúido e afins.
+
+
+Palestras {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Aplicativo em shiny para testes A/B bayesianos
+SatRday
+
+São Paulo, Brazil
+
+2019
+
+
+lightning talk sobre estatística bayesiana aplicada a teste A/B.
+
+**Muliterno I**.
+
