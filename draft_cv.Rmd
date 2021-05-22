@@ -16,7 +16,7 @@ Aside
 
 
 
-Contact Info {#contact}
+Contato {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> iannimuliterno@gmail.com
@@ -89,7 +89,7 @@ São Paulo, Brazil
 
 
 ### Statistical Analyst
-[PRICED](https://www.priced.com.br/)
+  [PRICED](https://www.priced.com.br/)
 
 São Paulo, Brazil
 
