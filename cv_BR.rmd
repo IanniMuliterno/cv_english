@@ -49,7 +49,7 @@ Este currículo foi feito com o pacote [**pagedown**](https://github.com/rstudio
 Main
 ================================================================================
 
-            Ianní Muliterno {#title}
+Ianní Muliterno {#title}
 --------------------------------------------------------------------------------
 
 ### Sem busca ativa de oportunidades atualmente.
@@ -76,7 +76,7 @@ Experiência Profissional {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Cientista de dados, Analista
-Omni - Financeira
+[Omni](https://www.omni.com.br/)
 
 São Paulo, Brasil
 
@@ -89,7 +89,7 @@ São Paulo, Brasil
 
 
 ### Analista estatística
-PRICED
+[PRICED](https://www.priced.com.br/)
 
 São Paulo, Brasil
 
@@ -104,7 +104,7 @@ Fintech focada em análise de mercado varejista. Minhas principais responsabilid
 - Ferramentas : Linux, R, Phyton
 
 ### Pessoa Estatística/CSPRO Full-Stack Dev.
-Norte Pesquisa
+[Norte Pesquisa](https://www.facebook.com/nortepesquisaspe/)
 
 Recife, Brasil
 
@@ -117,7 +117,7 @@ Experiência de ensino {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### R  - de iniciante à intermediário
-R-Ladies São Paulo
+[R-Ladies São Paulo](https://www.meetup.com/pt-BR/pro/rladies/)
 
 São Paulo, Brasil
 
@@ -130,8 +130,18 @@ Como queremos promover diversidade de gênero o nosso público alvo são mulhere
 
 Palestras {data-icon=file}
 --------------------------------------------------------------------------------
+### [From Statistics to Data Science](https://github.com/IanniMuliterno/talk_datascience).
+[Scientific Journey of Probability and Statistics](https://sites.google.com/de.ufpe.br/jcpe/in%C3%ADcio) 
 
-### Aplicativo em shiny para testes A/B bayesianos
+Recife, Brazil
+
+2021
+
+Palestra focada em apresentar a profissão de cientista de dados e correlacionar a mesma com estatística.
+
+**Muliterno, I**.
+
+### [Aplicativo em shiny para testes A/B bayesianos](https://github.com/IanniMuliterno/satRday_SP_2019/blob/master/satRday.pdf).
 SatRday
 
 São Paulo, Brazil

@@ -76,7 +76,7 @@ Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Data Scientist, Analyst
-Omni - financial institution
+[Omni](https://www.omni.com.br/)
 
 São Paulo, Brazil
 
@@ -89,7 +89,7 @@ São Paulo, Brazil
 
 
 ### Statistical Analyst
-PRICED
+[PRICED](https://www.priced.com.br/)
 
 São Paulo, Brazil
 
@@ -104,7 +104,7 @@ A fintech focused on retail market analysis. My main responsabilities were:
 - Tools : Linux, R, Phyton
 
 ### Statistician/CSPRO Full-Stack Dev.
-Norte Pesquisa
+[Norte Pesquisa](https://www.facebook.com/nortepesquisaspe/)
 
 Recife, Brazil
 
@@ -117,7 +117,7 @@ Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### R language - from begginers to intermediate.
-R-Ladies São Paulo
+[R-Ladies São Paulo](https://www.meetup.com/pt-BR/pro/rladies/)
 
 São Paulo, Brazil
 
@@ -130,8 +130,8 @@ As we want to promote gender diversity, our target audience is cis women, trans 
 
 Talks {data-icon=file}
 --------------------------------------------------------------------------------
-### From Statistics to Data Science.
-Scientific Journey of Probability and Statistics - UFPE
+### [From Statistics to Data Science](https://github.com/IanniMuliterno/talk_datascience).
+[Scientific Journey of Probability and Statistics](https://sites.google.com/de.ufpe.br/jcpe/in%C3%ADcio) 
 
 Recife, Brazil
 
@@ -141,7 +141,7 @@ The talk is focused on showing Data Science and Statistics have a lot in common.
 
 **Muliterno, I**.
   
-### Shiny app to bayesian A/B tests.
+### [Shiny app to bayesian A/B tests](https://github.com/IanniMuliterno/satRday_SP_2019/blob/master/satRday.pdf).
 SatRday 
 
 São Paulo, Brazil
