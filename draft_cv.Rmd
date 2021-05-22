@@ -130,9 +130,19 @@ As we want to promote gender diversity, our target audience is cis women, trans 
 
 Talks {data-icon=file}
 --------------------------------------------------------------------------------
+### From Statistics to Data Science.
+Scientific Journey of Probability and Statistics - UFPE
 
+Recife, Brazil
+
+2021
+
+The talk is focused on showing Data Science and Statistics have a lot in common. I start presenting data science and showing how 'sexy' a job it is, then I introduce my day-by-day as a data scientist, drawing a  parallel between statistics subjects and the solutions a data scientist has to provide. At last I share my impressions about data science interviews and data science squads.
+
+**Muliterno, I**.
+  
 ### Shiny app to bayesian A/B tests.
-SatRday
+SatRday 
 
 São Paulo, Brazil
 
